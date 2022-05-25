@@ -32,7 +32,4 @@ Find out more about me & feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=troy-ingram&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=troy-ingram&hide=TeX&layout=compact)
 
-![default](https://github-readme-stats.vercel.app/api?username=troy-ingram&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=default)
-![default_repocard_repo](https://github-readme-stats.vercel.app/api/pin/?username=troy-ingram&repo=github-readme-stats&cache_seconds=86400&theme=default_repocard)
-
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=troy-ingram%2Ftroy-ingram&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=troy-ingram%2Ftroy-ingram)
