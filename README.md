@@ -12,7 +12,7 @@ Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Troy%20Ingram-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/troy-ingram)](https://www.linkedin.com/in/troy-ingram)
 [![Medium Badge](https://img.shields.io/badge/Troy%20Ingram-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@troy-ingram)](https://medium.com/@troy-ingram)
-[![Gmail Badge](https://img.shields.io/badge/-Troy%20Ingram-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:troyingram86@gmail.com)](mailto:troyingram86@gmail.com)
+
 
 ## ⚡ Technologies
 
